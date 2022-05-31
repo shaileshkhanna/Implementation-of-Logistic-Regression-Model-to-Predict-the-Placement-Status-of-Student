@@ -66,10 +66,15 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
+HEAD:
 ![1](https://user-images.githubusercontent.com/103241457/171145451-cc65b610-d0ea-4446-8f03-5dc86cad9895.png)
+Predicted value:
 ![2](https://user-images.githubusercontent.com/103241457/171145507-4200f8bf-7af8-4243-a337-66fa29e77582.png)
+Accuracy:
 ![3](https://user-images.githubusercontent.com/103241457/171145569-f68d4f95-7a93-43f5-9b13-c4ed13b277c8.png)
+Confusion Matrix:
 ![4](https://user-images.githubusercontent.com/103241457/171145614-42d4526c-daa0-4326-8b2e-37ca4c827825.png)
+Classification Report:
 ![5](https://user-images.githubusercontent.com/103241457/171145671-08853da9-f785-412b-8982-be503f440a37.png)
 
 
